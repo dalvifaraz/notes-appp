@@ -1,0 +1,25 @@
+{
+  "name": "notes-appp",
+  "version": "1.0.0",
+  "description": "note application to maintain the notes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalvifaraz/notes-appp.git"
+  },
+  "author": "Faraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalvifaraz/notes-appp/issues"
+  },
+  "homepage": "https://github.com/dalvifaraz/notes-appp#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "validator": "^13.7.0",
+    "yargs": "^17.3.1"
+  }
+}
